@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/posts/update.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/query.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/titre.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/post.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/index.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/users/administration.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/controllers/annonces_controller.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/annonces.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/layout.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/users/gestion.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/show.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/my_model.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/css/style.css</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/categories.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/create.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/email.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/users/connexion.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/controllers/pages_controller.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/region.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/comments.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/users/index.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/recherche.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/favoris.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/update.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/controllers/comments_controller.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/models/user.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/controllers/posts_controller.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/posts/index.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/routes.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/pages/home.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/connection.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/views/annonces/index.php</file>
+            <file>file:/home/ludo/ServeurWeb/miniblog/controllers/users_controller.php</file>
+        </group>
+    </open-files>
+</project-private>
